@@ -1,0 +1,14 @@
+# virtual environment
+.venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# NOTE: cache/ and figures/ are intentionally NOT ignored (submitted results).
